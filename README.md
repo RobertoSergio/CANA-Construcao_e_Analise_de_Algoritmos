@@ -1,1 +1,1 @@
-# CANA-Constru-o-e-An-lise-de-Algoritmos
+# CANA-Construção e Análise de Algoritmos
