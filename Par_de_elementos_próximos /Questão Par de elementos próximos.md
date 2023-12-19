@@ -5,4 +5,4 @@
 # |x − y| ≤ (M − m)/(n − 1)
 # — (porque?)
 # Suponha que a lista L já se encontra ordenada.
-# Apresente o algoritmo mais eficiente que você puder que encontre um par de elementos que satisfaçaa a condição acima.
+# Apresente o algoritmo mais eficiente que você puder que encontre um par de elementos que satisfaça a condição acima.
