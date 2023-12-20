@@ -1,9 +1,10 @@
 # Considere uma operação de multiplicação envolvendo os termos a, b, c, definida pela seguinte matriz
-#     a b c
-#    ______
+# **a b c
+# **_______
 # a | b b a
 # b | c b a
 # c | a c c
+# aa = b, ba = b , ca = a , ab = c , bb = b , cb = a , ac = a , bc = c , cc = c 
 # Quer dizer, a · b = b, b · a = c, e assim por diante.
 # Note que a multiplicação definida por essa matriz não é comutativa nem associativa.
 # Isso significa que, ao trocar a ordem dos termos em uma expressão, ou a posição dos parênteses, nós podemos mudar o resultado da expressão.
