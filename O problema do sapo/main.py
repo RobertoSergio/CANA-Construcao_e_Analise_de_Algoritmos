@@ -31,7 +31,7 @@ def atravessar_recursivo(Estrutura, pos, velocidade, lista_memoria, n):
     lista_memoria[pos][velocidade] = False
     return False
 
-# Exemplo de uso:
+# Main:
 Rio = "* * - *"
 Estrutura = Rio.split()
 r = Atravessar(Estrutura)
