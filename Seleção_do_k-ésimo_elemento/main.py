@@ -36,7 +36,7 @@ def selecao_kesimo_menor(V, left, right, k):
     else:
         return selecao_kesimo_menor(V, left, pivot_index - 1, k)
 
-# Exemplo de uso
+# Main
 V = [8, 4, 2, 7, 5, 6, 11, 14, 23, 24, 31, 34]
 k = 4  # Encontrar o 3º menor elemento
 resultado = selecao_kesimo_menor(V, 0, len(V) - 1, k - 1)  # Ajustar para índice base 0
