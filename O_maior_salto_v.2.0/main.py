@@ -24,7 +24,7 @@ def maior_salto_v2(lista, n):
     # Retorna o maior salto encontrado
     return maior_salto
 
-# Exemplo de uso:
+# main:
 L = [4, 10, 0, 7]
 n = len(L)
 resultado = maior_salto_v2(L, n)
