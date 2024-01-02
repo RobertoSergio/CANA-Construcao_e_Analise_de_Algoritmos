@@ -4,7 +4,11 @@ A ideia é que o mapa indica a altitude das diferentes partes do terreno.
 
 
 De maneira simplificada, nós podemos imaginar que a região é um retãngulo, e que o mapa fornece estimativas aproximadas para a altitude em cada quadradinho.
+
+
 Quer dizer, nós podemos pensar no mapa como uma matriz A[n, m] de números positivos.
+
+
 Para simplificar ainda mais a situação, os expedicionários decidiram que só vão considerar
 trajetórias que fazem algum progresso a cada passo:
 
@@ -14,6 +18,8 @@ Por outro lado, a trajetória pode começar em qualquer ponto na parte de baixo 
 
 
 a) Apresente um algoritmo de programação dinâmica que encontra uma trajetória para atravessar a cadeia de montanhas, com o menor deslocamente vertical total possível.
+
+
 b) Estime a complexidade do seu algoritmo.
 
 
