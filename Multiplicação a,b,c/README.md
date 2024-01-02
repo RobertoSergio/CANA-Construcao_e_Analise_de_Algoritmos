@@ -5,7 +5,7 @@ Considere uma operação de multiplicação envolvendo os termos a, b, c, defini
     a  b c
 
 
-____________
+--------------
 
 
   a | b b a
