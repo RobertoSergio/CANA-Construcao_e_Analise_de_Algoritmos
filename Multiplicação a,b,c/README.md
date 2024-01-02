@@ -2,19 +2,11 @@
 Considere uma operação de multiplicação envolvendo os termos a, b, c, definida pela seguinte matriz
 
 
-    a  b c
-
-
---------------
-
-
-  a | b b a
-
-  
-  b | c b a
-
-  
-  c | a c c
+| Matriz      | a | b | c |
+|-------------|---------|---------|---------|
+| a    | b       | b       | a       |
+| b    | c       | b       | a       |
+| c    | a       | c       | c       |
 
   
 Quer dizer, a · b = b, b · a = c, e assim por diante.
