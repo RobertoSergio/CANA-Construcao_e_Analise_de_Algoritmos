@@ -2,10 +2,10 @@
 Considere uma operação de multiplicação envolvendo os termos a, b, c, definida pela seguinte matriz
 
 
-      a b c
+    a  b c
 
 
-     _______
+____________
 
 
   a | b b a
