@@ -1,4 +1,5 @@
 # CANA-Construção e Análise de Algoritmos
+## Explicação:
 Nesse repositório tem várias questões de listas disponibilizadas durante a cadeira de CANA.
 
 ## Organização:
