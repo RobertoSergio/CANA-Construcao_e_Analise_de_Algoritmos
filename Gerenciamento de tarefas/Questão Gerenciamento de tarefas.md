@@ -7,6 +7,8 @@ E para supervisionar a tarefa Tj o gerente deve passar pelo local em algum momen
 
 
 A questão é que o gerente, digamos assim, não é uma pessoa muito chegada ao trabalho ...
+
+
 Quer dizer, ele queria de levantar da cadeira o menor de vezes possível para fazer a ronda.
 
 ## Problema da Questão:
