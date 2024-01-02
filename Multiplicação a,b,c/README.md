@@ -3,6 +3,8 @@ Considere uma operação de multiplicação envolvendo os termos a, b, c, defini
 
 
      _a_b_c_
+
+
   a | b b a
 
   
